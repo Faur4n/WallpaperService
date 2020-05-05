@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WallpaperService</string>
+    <string name="set_wallpaper">Auto-change wallpaper half a day</string>
+</resources>

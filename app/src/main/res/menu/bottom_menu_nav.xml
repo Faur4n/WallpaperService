@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/ic_today_white_24dp"
+        android:title="Today" />
+    <item
+        android:id="@+id/lastWeekFragment"
+        android:icon="@drawable/ic_view_week_white_24dp"
+        android:title="Last week" />
+</menu>
